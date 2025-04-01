@@ -10,7 +10,7 @@ const projects = [
   { id: 2, title: 'Rock Paper Scissor', skills: ['HTML', 'CSS','JavaScript'] ,deployedLink:'https://js-test-module.vercel.app/'  ,repoLink : 'https://github.com/Ashu-lab252001/JS-test-module-'},
   { id: 3, title: 'Pocket Notes', skills: ['HTML', 'CSS','React'] ,deployedLink : 'https://pocket-notes-nine-ochre.vercel.app/', repoLink : 'https://github.com/Ashu-lab252001/Pocket-notes'},
   { id: 4, title: 'Typebot Form', skills: ['NodeJs', 'CSS','React', 'Express', 'MongoDb'] ,deployedLink : 'https://mern-frontend-ivory.vercel.app/', repoLink : 'https://github.com/Ashu-lab252001/mern-frontend'},
-  { id: 5, title: 'URL Shortner', skills: ['NodeJs', 'CSS','React', 'Express', 'MongoDb'] ,deployedLink : 'https://mini-spark.vercel.app/', repoLink : 'https://github.com/Ashutosh-koli/MINI_spark'}
+  { id: 5, title: 'Link-Tree', skills: ['NodeJs', 'CSS','React', 'Express', 'MongoDb', 'JWT', 'api'] ,deployedLink : 'https://mini-spark.vercel.app/', repoLink : 'https://github.com/Ashutosh-koli/MINI_spark'},
 ];
 const boxVariant = {
   visible: { opacity: 1, scale: 1, transition: { duration: 0.5 } },
