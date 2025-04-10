@@ -11,7 +11,7 @@ const projects = [
   { id: 3, title: 'Pocket Notes', skills: ['HTML', 'CSS','React'] ,deployedLink : 'https://pocket-notes-nine-ochre.vercel.app/', repoLink : 'https://github.com/Ashu-lab252001/Pocket-notes'},
   { id: 4, title: 'Typebot Form', skills: ['NodeJs', 'CSS','React', 'Express', 'MongoDb'] ,deployedLink : 'https://mern-frontend-ivory.vercel.app/', repoLink : 'https://github.com/Ashu-lab252001/mern-frontend'},
   { id: 5, title: 'Link-Tree', skills: ['NodeJs', 'CSS','React', 'Express', 'MongoDb', 'JWT', 'api'] ,deployedLink : 'https://linktree-two-xi.vercel.app/', repoLink : 'https://github.com/Ashutosh-koli/Linktree'},
-];`
+];
 const boxVariant = {
   visible: { opacity: 1, scale: 1, transition: { duration: 0.5 } },
   hidden: { opacity: 0, scale: 0 }
